@@ -32,4 +32,4 @@ Hey everyone, I am a competitive programmer with a deep knowledge of DSA with C/
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/A7Lavinraj"><img src="https://github-readme-stats.vercel.app/api?username=A7Lavinraj&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=14b8a6&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="A7Lavinraj's GitHub stats" /></a>
+<a href="http://www.github.com/A7Lavinraj"><img src="https://github-readme-stats.vercel.app/api?username=A7Lavinraj&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="A7Lavinraj's GitHub stats" /></a>
